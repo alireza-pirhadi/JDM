@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JDM:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caf0e721-1978-4dc7-85aa-153bdb7a7789" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JDM" />
+  </component>
+  <component name="ProjectId" id="1i121gfTjHhK4XqlD70bc0qFR9K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="gette&#9;ACTION&#9;GenerateGetter&#10;gett&#9;ACTION&#9;GenerateGetter&#10;sette&#9;ACTION&#9;GenerateSetter&#10;sett&#9;ACTION&#9;GenerateSetter&#10;constr&#9;ACTION&#9;GenerateConstructor&#10;list.jd&#9;FILE&#9;file://C:/Users/asus/Documents/Advanced Programming/midterm Project/JDM/list.jdm&#10;getter&#9;ACTION&#9;GenerateGetter" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="JDM" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caf0e721-1978-4dc7-85aa-153bdb7a7789" name="Default" comment="" />
+      <created>1525251326491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525251326491</updated>
+      <workItem from="1525251328093" duration="39205000" />
+      <workItem from="1526211600143" duration="936000" />
+      <workItem from="1526490483585" duration="614000" />
+      <workItem from="1526535371408" duration="77594000" />
+      <workItem from="1526677321031" duration="2613000" />
+      <workItem from="1527227756730" duration="14364000" />
+      <workItem from="1527346015137" duration="277000" />
+      <workItem from="1527747488544" duration="86241000" />
+      <workItem from="1527924054570" duration="18266000" />
+      <workItem from="1528040662664" duration="10367000" />
+      <workItem from="1528051314966" duration="1377000" />
+      <workItem from="1528105116420" duration="2054000" />
+      <workItem from="1528107917934" duration="561000" />
+      <workItem from="1528111180843" duration="5000" />
+      <workItem from="1528287659315" duration="12000" />
+      <workItem from="1528518397814" duration="14000" />
+      <workItem from="1601060572732" duration="452000" />
+      <workItem from="1601061159221" duration="1217000" />
+      <workItem from="1601064455973" duration="17000" />
+    </task>
+    <task id="LOCAL-00001" summary="first version of project">
+      <created>1526212079399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526212079399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding Mnemonic and Accelerator to menuItems">
+      <created>1526536953888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526536953888</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding Mnemonic and Accelerator to menuItems">
+      <created>1526577777415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526577777416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding setting panel and providing feature of cancelling and removing downloads">
+      <created>1526594288990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526594288990</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added feature of opening completed downloads and also added scroll bar to download list">
+      <created>1526646789210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526646789210</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added feature of viewing each download information">
+      <created>1526652781557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526652781557</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added feature of pausing and resuming a download">
+      <created>1526659224205</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526659224205</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added feature of Queueing">
+      <created>1526670783789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526670783790</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed some bugs in scroll bar">
+      <created>1526679933437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526679933453</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added feature of saving setting and queue and storing canceled downloads">
+      <created>1527769026465</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1527769026465</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added feature of adding blocked addresses">
+      <created>1527777329452</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527777329452</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added feature of searching between downloads">
+      <created>1527781805847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1527781805847</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added feature of sorting downloads">
+      <created>1527798436043</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1527798436043</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added feature of downloading file that can be opened by double click">
+      <created>1527807525633</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527807525633</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added feature of showing downloaded size and set value of progress bar">
+      <created>1527849211503</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1527849211503</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed some bugs and improved application performance">
+      <created>1527942359862</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1527942359862</updated>
+    </task>
+    <task id="LOCAL-00017" summary="final version of project">
+      <created>1528051009410</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1528051009410</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first version of project" />
+    <MESSAGE value="adding Mnemonic and Accelerator to menuItems" />
+    <MESSAGE value="adding setting panel and providing feature of cancelling and removing downloads" />
+    <MESSAGE value="added feature of opening completed downloads and also added scroll bar to download list" />
+    <MESSAGE value="added feature of viewing each download information" />
+    <MESSAGE value="added feature of pausing and resuming a download" />
+    <MESSAGE value="added feature of Queueing" />
+    <MESSAGE value="fixed some bugs in scroll bar" />
+    <MESSAGE value="added feature of saving setting and queue and storing canceled downloads" />
+    <MESSAGE value="added feature of adding blocked addresses" />
+    <MESSAGE value="added feature of searching between downloads" />
+    <MESSAGE value="added feature of sorting downloads" />
+    <MESSAGE value="added feature of downloading file that can be opened by double click" />
+    <MESSAGE value="added feature of showing downloaded size and set value of progress bar" />
+    <MESSAGE value="fixed some bugs and improved application performance" />
+    <MESSAGE value="final version of project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version of project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601060587934">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="570" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1601060587934" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1601063563367">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1601063563367" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1601063563366">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1601063563366" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1601063563366">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1601063563366" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1601063563366">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1601063563366" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JDM:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JDM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

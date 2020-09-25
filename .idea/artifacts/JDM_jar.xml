@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDM_jar</output-path>
+    <root id="archive" name="JDM.jar">
+      <element id="module-output" name="JDM" />
+    </root>
+  </artifact>
+</component>

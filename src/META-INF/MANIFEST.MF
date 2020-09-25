@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\asus\Documents\Advanced Programming\midterm Proje
+ ct\JDM\src\com\company\Main.java
+Main-Class: Main.java
+
